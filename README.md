@@ -16,7 +16,7 @@ I admit it is missing some substantial QoL features such as an embed builder.
 1.  Clone the project
 2.  `yarn`
 3.  `yarn tsc`
-4.  Fill out `config.json` (copy it from `config.json` for a template)
+4.  Fill out `config.json` (copy it from `config.example.json` for a template)
 5.  `node dist/main.js`
 
 ### License
